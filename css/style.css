@@ -213,8 +213,12 @@ body{
     border-radius: 5px;
     align-items: center;
     text-align: center;
-    padding-top: 7px;
+    padding-top: 5px;
     
+}
+.box img{
+    width: 30px;
+    height: 30px;
 }
 .address{
     border-right:1px solid #2E2E2B;
